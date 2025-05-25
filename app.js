@@ -19,6 +19,7 @@ app.post('/webhook', (req, res) => {
     // });
 
     console.log("Push detected")
+    res.sendStatus(200);
 });
 
 
