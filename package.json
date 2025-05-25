@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "name": "webhook-test",
+  "version": "1.0.0",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AmineSaoudi/webhook-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/AmineSaoudi/webhook-test/issues"
+  },
+  "homepage": "https://github.com/AmineSaoudi/webhook-test#readme",
+  "description": ""
+}
